@@ -1,0 +1,21 @@
+{
+  "repo": "visasq",
+  "feeds": [
+    {
+      "source": "https://corp.visasq.co.jp/en/news",
+      "feed_url": "https://corp.visasq.co.jp/en/news/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://corp.visasq.co.jp/en/news/feed",
+      "feed_url": "https://corp.visasq.co.jp/en/news/feed",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
